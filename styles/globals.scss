@@ -1,0 +1,72 @@
+/* ./styles/globals.css */
+html,
+body {
+  @apply bg-gray-100;
+}
+
+html {
+  &.dark {
+    body {
+      @apply bg-gray-900;
+    }
+  }
+}
+
+.loader div {
+  animation-duration: 0.5s;
+}
+
+.window-controls {
+  margin-left: 14px;
+  margin-right: 0;
+  margin-top: -24px;
+  position: relative;
+  text-align: initial;
+  top: 34px;
+  z-index: 2;
+}
+
+.window-title-container {
+  left: -9px;
+  margin: 0;
+  position: absolute;
+  text-align: center;
+  top: -3px;
+  width: 100%;
+
+  input {
+    background: none;
+    border: none;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    max-width: calc(100% - 140px);
+    outline: none;
+    text-align: center;
+    width: 250px;
+  }
+}
+
+// https://github.com/tsayen/dom-to-image/issues/183
+#export-container {
+  .CodeMirror {
+    @apply p-8 rounded-sm h-auto;
+
+    padding-top: 48px;
+
+    .CodeMirror-scroll {
+      overflow: hidden !important;
+    }
+  }
+}
+
+.loader div:first-child {
+  animation-delay: 0.1s;
+}
+
+.loader div:nth-child(2) {
+  animation-delay: 0.3s;
+}
+
+.loader div:nth-child(3) {
+  animation-delay: 0.6s;
+}
