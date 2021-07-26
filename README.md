@@ -7,7 +7,11 @@
 ## Setup
 - Node.js v12.x
 
-```bash
+```sh
+cp .env.example .env.local
+```
+
+```sh
 docker-compose build
 docker-compose run --rm app yarn install
 docker-compose up -d
@@ -15,6 +19,6 @@ docker-compose up -d
 
 ## Husky Setup
 
-```bash
+```sh
 yarn husky install
 ```
