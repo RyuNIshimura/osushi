@@ -1,5 +1,9 @@
 # 🍣 Osushi
 
+![image](https://user-images.githubusercontent.com/40055484/126982800-f37ca0ed-30a3-4743-9f91-c7a44e327919.png)
+
+![image](https://user-images.githubusercontent.com/40055484/126982812-1c1f4ca9-2c2d-4c6d-b534-e07de3829bf7.png)
+
 ## Features
 - 😃 Generating images from code snippets.
 - 🐤 Easy sharing on Twitter.
