@@ -11,9 +11,9 @@
 ![image](https://user-images.githubusercontent.com/40055484/126982812-1c1f4ca9-2c2d-4c6d-b534-e07de3829bf7.png)
 
 ## Features
--　⭐️ Generating images from code snippets
-- ☄️　Easy sharing on Twitter
--　🌎　Easy sharing on Gist
+- ✨ Generating images from code snippets
+- 🔥 Easy sharing on Twitter
+- ⭐️ Easy sharing on Gist
 
 ## Setup
 - Node.js v12.x
