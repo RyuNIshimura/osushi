@@ -4,7 +4,7 @@
   "dependencies": {
     "@headlessui/react": "^1.4.1",
     "@heroicons/react": "^1.0.4",
-    "codemirror": "^5.63.1",
+    "codemirror": "^5.63.3",
     "dom-to-image": "^2.6.0",
     "keyboardjs": "^2.6.4",
     "next": "^11.1.2",
