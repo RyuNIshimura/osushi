@@ -26,7 +26,7 @@
     "eslint-plugin-react": "^7.26.1",
     "fixpack": "^4.0.0",
     "husky": "^7.0.2",
-    "next-sitemap": "^1.6.189",
+    "next-sitemap": "^1.6.192",
     "postcss": "^8.3.10",
     "react-color": "^2.19.3",
     "stylelint": "^13.13.1",
