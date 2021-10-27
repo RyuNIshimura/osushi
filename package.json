@@ -29,7 +29,7 @@
     "next-sitemap": "^1.6.192",
     "postcss": "^8.3.10",
     "react-color": "^2.19.3",
-    "stylelint": "^14.0.0",
+    "stylelint": "^14.0.1",
     "stylelint-config-recommended-scss": "^5.0.0",
     "stylelint-config-standard": "^23.0.0",
     "stylelint-order": "^5.0.0",
