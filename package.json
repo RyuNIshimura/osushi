@@ -2,7 +2,7 @@
   "name": "osushi.io",
   "version": "0.1.0",
   "dependencies": {
-    "@headlessui/react": "^1.4.1",
+    "@headlessui/react": "^1.4.3",
     "@heroicons/react": "^1.0.4",
     "codemirror": "^5.63.3",
     "dom-to-image": "^2.6.0",
