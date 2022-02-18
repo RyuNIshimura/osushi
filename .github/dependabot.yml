@@ -12,5 +12,3 @@ updates:
       - 'automerge'
     allow:
       - dependency-type: "direct"
-    reviewers:
-      - "RyuNIshimura"
