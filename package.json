@@ -8,7 +8,7 @@
     "dom-to-image": "^2.6.0",
     "keyboardjs": "^2.6.4",
     "next": "^12.1.0",
-    "next-auth": "^4.2.1",
+    "next-auth": "^4.3.0",
     "next-pwa": "^5.4.5",
     "next-themes": "^0.1.1",
     "octokit": "^1.7.1",
