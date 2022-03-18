@@ -27,7 +27,7 @@
     "fixpack": "^4.0.0",
     "husky": "^7.0.4",
     "next-sitemap": "^2.5.9",
-    "postcss": "^8.4.8",
+    "postcss": "^8.4.12",
     "react-color": "^2.19.3",
     "stylelint": "^14.5.3",
     "stylelint-config-recommended-scss": "^5.0.2",
