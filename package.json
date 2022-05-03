@@ -16,7 +16,7 @@
     "react-codemirror2": "^7.2.1",
     "react-dom": "^17.0.2",
     "react-syntax-highlighter": "^15.4.5",
-    "sass": "^1.49.11",
+    "sass": "^1.51.0",
     "twit": "^2.2.11"
   },
   "devDependencies": {
