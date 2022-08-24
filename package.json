@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "dependencies": {
     "@headlessui/react": "^1.6.0",
-    "@heroicons/react": "^1.0.5",
+    "@heroicons/react": "^2.0.1",
     "codemirror": "^5.65.4",
     "dom-to-image": "^2.6.0",
     "keyboardjs": "^2.6.4",
